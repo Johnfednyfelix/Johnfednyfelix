@@ -9,7 +9,7 @@
 - <b>Microsoft Azure (Compute and Networking)</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Johnfednyfelix/azure-network-protocols)
 - <b>Actice Directory (Users and Computers)</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Johnfednyfelix/configure-ad)
+  - [Configuring Proton VPN within Azure VM](https://github.com/Johnfednyfelix/configure-vpn)
 
 <h2>🤳Connect with me:</h2>
 
