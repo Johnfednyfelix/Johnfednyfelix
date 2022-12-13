@@ -11,6 +11,7 @@
 - <b>Proton VPN (Virtual Private Network)</b>
   - [Configuring Proton VPN within Azure VM](https://github.com/Johnfednyfelix/configure-vpn)
 - <b>Linux Command Analyzation using VPN</b>
+  - [Analyzing Linux Command Protocols via Virtual Private Network](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
