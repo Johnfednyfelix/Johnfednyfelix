@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Johnfednyfelix/azure-network-protocols)
 - <b>Proton VPN (Virtual Private Network)</b>
   - [Configuring Proton VPN within Azure VM](https://github.com/Johnfednyfelix/configure-vpn)
-- <b>Protocol/Ping Connectivity using VPN</b>
+- <b>Linux Command Analyzation using VPN</b>
 
 <h2>Connect with me:</h2>
 
