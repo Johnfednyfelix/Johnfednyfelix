@@ -1,6 +1,6 @@
 <h1>Hi, I'm John, an <a href="https://www.linkedin.com/in/john-felix-b676a8258/">IT Professional
 
-<h2>Information Technology Projects:</h2>
+<h2> Highlight Projects  Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Johnfednyfelix/osticket-prereqs)
